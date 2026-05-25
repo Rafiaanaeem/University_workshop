@@ -20,7 +20,7 @@ public class ProjectSpecs extends JFrame {
     private final Color THEME_COLOR = new Color(70, 130, 180);
     private final Color GREEN_COLOR = new Color(60, 179, 113);
     private final Font BOLD_FONT = new Font("Segoe UI", Font.BOLD, 14);
-
+    
     public ProjectSpecs(User user, Application app) {
         this.currentUser = user; 
         this.currentApp = app;
